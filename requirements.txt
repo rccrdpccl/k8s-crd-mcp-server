@@ -1,0 +1,5 @@
+fastmcp
+kubernetes
+fastapi
+uvicorn[standard]
+
