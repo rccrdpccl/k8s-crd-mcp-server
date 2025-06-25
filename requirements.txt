@@ -1,0 +1,7 @@
+fastmcp[v2.9.2]
+kubernetes
+fastapi
+uvicorn[standard]
+openai
+asyncio
+httpx
